@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">BCSD_Lab_Beginner</string>
+    <string name="login_title">로그인</string>
+    <string name="id_hint">아이디</string>
+    <string name="password_hint">비밀번호</string>
+
+    <string name="login_button">로그인</string>
+    <string name="find_pw_text">비밀번호 찾기</string>
+    <string name="sign_up_text">회원가입</string>
+</resources>

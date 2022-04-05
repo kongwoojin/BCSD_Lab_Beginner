@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">BCSD_Lab_Beginner</string>
+    <string name="login_title">Login</string>
+    <string name="id_hint">ID</string>
+    <string name="password_hint">Password</string>
+
+    <string name="login_button">Sign in</string>
+    <string name="find_pw_text">Find password</string>
+    <string name="sign_up_text">Sign Up</string>
 </resources>
